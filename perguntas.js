@@ -1,23 +1,29 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Mecânica',
+    'Qual é a fórmula da força?',
+    'F=m.a'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Hidráulica',
+    'Qual é a diferença entre pressão e pressão hidrostática?',
+    'Pressão P=F/A; Pressão Hid P=q.g.h'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Térmico',
+    'O que é calor? Qual sua unidade no S.I.?',
+    'Energia em trânsito, medida em Joule'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Eletricidade',
+    'Qual é a 1ª Lei de Ohm?',
+    'U=R.i'
+)
+
+criaCartao(
+    'Magnetismo',
+    'O que acontece quando se quebra um imã?',
+    'Terá dois imãs menores'
 )
